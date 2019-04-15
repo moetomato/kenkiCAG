@@ -1,16 +1,17 @@
-## Kenki bot
+# Kenki bot
 
 ## Getting Started
-### Getting Started
-#### Install slackbot by this command
+### Install slackbot by this command
 ```
 pip install --upgrade pip
 pip3 install slackbot
 ```
-### Running
+### Set the Shared API TOKEN in slackbot_settings.py
+
+## Running
 ```
 python run.py
 ```
 
-### License
+## License
 This project is licensed under the Yoshikawa lab (Kyoto University) License
